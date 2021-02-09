@@ -1,0 +1,4 @@
+com\poornima\rentcloud\model\customer\Loyalty.class
+com\poornima\rentcloud\model\customer\Customer.class
+com\poornima\rentcloud\model\vehicle\Vehicle.class
+com\poornima\rentcloud\model\rent\Rent.class
